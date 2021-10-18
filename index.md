@@ -3,7 +3,7 @@
 ### Some Title
 
 Welcome to the RBN! 
-
+![Image of happy chick](https://thumbs.dreamstime.com/z/happy-chick-vector-art-illustration-collection-stock-86873106.jpg)
 ```markdown
 some text here
 
