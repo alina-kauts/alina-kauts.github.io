@@ -1,5 +1,4 @@
 ## Royal Bank of Popcorn
-
 ### Choose Your Perfect Popcorn Account 
 We offer popcorn accounts to suit every taste:
 
